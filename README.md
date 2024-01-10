@@ -6,7 +6,7 @@ This is an open-source project that provides detailed instructions for
 creating a 3D printed ÖBB (Austrian Federal Railways) signal model based 
 on the [3d model](https://www.thingiverse.com/thing:6121234/files) of [Stubenflieger](https://www.thingiverse.com/stubenflieger/designs).
 
-![signal photo](https://github.com/HeyJoFlyer/oebb-digital-scale-signal/signal.avif?raw=true "signal photo")
+![signal photo](https://github.com/HeyJoFlyer/oebb-digital-scale-signal/blob/main/signal.avif?raw=true "signal photo")
 
 ## Features
 - 3D printed model
