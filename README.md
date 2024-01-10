@@ -25,7 +25,8 @@ To create the ÖBB signal, you will need:
 
 ## Instructions
 1. Print 3d models, you can choose to print 
-1. if you dont have the required color or dont have a multicolor 3d printer, you should paint the parts (photos).
+1. if you dont have the required color or dont have a multicolor 3d printer, you should paint the parts (photos), you can view the renders [here](/renders/renders.md).
+1. Assembly parts (I used a 3d pen with same grey filament)
 1. Under `test/code.py`you can find a test python script, where you will need to adjust the GP pins to your connected pins. With this script you can figure out which led is connected to which pin (took me ages without it), you can switch active led by pulling `GP0` low. You can view the output on the `REPL`using Thonny or MU editor.
 
 ## Acknowledgments
