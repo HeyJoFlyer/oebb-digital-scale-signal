@@ -36,4 +36,4 @@ This open source project is based on the [work of Stubenflieger](https://www.thi
 ## License
 This project is licensed under the CC-BY-NC-4.0 License (as was Stubenfliegers design), following files are also available under the MIT License:
 - `code.py`
-- `test/cody.py``
+- `test/cody.py`
